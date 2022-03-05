@@ -1,0 +1,9 @@
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\bin\Debug\Checker.exe.config
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\bin\Debug\Checker.exe
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\bin\Debug\Checker.pdb
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.csproj.AssemblyReference.cache
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.Properties.Resources.resources
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.csproj.GenerateResource.cache
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.csproj.CoreCompileInputs.cache
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.exe
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.pdb
