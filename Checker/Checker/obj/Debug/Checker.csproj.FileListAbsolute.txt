@@ -7,3 +7,5 @@ C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.csp
 C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.csproj.CoreCompileInputs.cache
 C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.exe
 C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.pdb
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.MainForm.resources
+C:\Users\devdem\source\repos\UpTimeProject\Checker\Checker\obj\Debug\Checker.Forms.ChartForm.resources
